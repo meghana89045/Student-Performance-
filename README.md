@@ -100,8 +100,8 @@ Depends on data quality
 Does not consider emotional or psychological factors
 
 ### Future Enhancements
-Deep learning models
-Flask-based web application
-Real-time student monitoring
-Explainable AI (SHAP) integration
+**Deep learning models**
+**Flask-based web application**
+**Real-time student monitoring**
+**Explainable AI (SHAP) integration**
 
